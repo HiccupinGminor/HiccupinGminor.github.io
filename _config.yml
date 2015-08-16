@@ -1,5 +1,5 @@
 # Site settings
-title:       Life and Projects of Chris Chung
+title:       Life and Projects
 email:       HiccupinGminor@gmail.com
 author:      Chris Chung
 description: "The blog of Chris Chung"
@@ -20,7 +20,7 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: HiccupinGminor
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
