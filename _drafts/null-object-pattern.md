@@ -4,7 +4,7 @@ Consider the following code:
 
 class Subscription {
 	
-	public function __construct(Billi) {
+	public function __construct(BillingInterface $billing) {
 	
 	}
 }
