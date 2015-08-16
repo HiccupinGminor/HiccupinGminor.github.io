@@ -1,10 +1,10 @@
 # Site settings
-title:       Projects and Stuff
+title:       Life and Projects of Chris Chung
 email:       HiccupinGminor@gmail.com
 author:      Chris Chung
 description: "The blog of Chris Chung"
-# baseurl:     ""
-# url:         "http://pixyll.com"
+baseurl:     "http://hiccupingminor.github.io/"
+url:         "http://hiccupingminor.github.io/"
 
 # Google analytics
 google_analytics:
