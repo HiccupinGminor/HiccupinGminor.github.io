@@ -48,9 +48,16 @@ share_hackernews: false
 
 # Build settings
 markdown:     kramdown
+kramdown:
+  use_coderay: true
+  coderay:
+    coderay_line_numbers: table
+    coderay_css: class
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
+  pygments: true
 permalink:    pretty
+pygments: true
 paginate:     4
 sass:
   compressed: true
