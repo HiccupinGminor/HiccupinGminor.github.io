@@ -2,9 +2,10 @@
 layout: post
 title: Null Object Pattern
 published: true
+tags: design patterns, PHP
 ---
 
-The Null Object pattern is a simple tool to remove existence checks from code. 
+The Null Object pattern is a simple strategy to remove existence checks from code. 
 
 Take a look at the following php classes:
 {% highlight php startinline=true%}	
@@ -146,7 +147,7 @@ Now nothing will go wrong when we try and run the program with the unaccounted f
 $animal2->speak(); // "I am an animal"
 {% endhighlight %}	
 	
-Traditionally, Null Objects are so named because they returned a literal null value:
+Traditionally, Null Objects are so named because they return a literal null value:
 
 {% highlight php startinline=true%}
 class NullAnimal {
@@ -159,4 +160,4 @@ class NullAnimal {
 $animal2->speak(); // NULL
 {% endhighlight %}	
 	
-Whether or not that is necessary is up to you.
+Whether or not this is needed in your program is up to you.
