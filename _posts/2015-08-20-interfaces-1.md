@@ -43,5 +43,6 @@ Note the dependence relationship between Battery and Device companies in the fir
 
 Interfaces produce the same positive results in programming as they do in the world of electronics. By following an interface, your code will be easier to maintain and update in the future. When technologies change, new ones can be slotted into place using the same interface without any modification in other parts of your code. 
 
-Each unit of your code has greater independence from separate units, and has the flexibility to adapt without affecting the code that depends on it.
+Additionally, interfaces help protect the programmer from creating tightly inter-dependent code. In the battery example, Derren's Devices and Bob's Batteries were completely inter-dependent as they each had to consult each other to make battery-related product decisions. If Derren's Devices built AA battery holders into their products, they would not need to know or care about the goings-on at any battery companies at all. Likewise, by using interfaces programmers can  produce units of code that are easy to care for, simple to update, and purposed toward a specific task.
+
 I will write more about the value of interfaces in the coming weeks.
