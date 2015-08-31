@@ -9,10 +9,14 @@ abbr {
 
 p {
   color: #333;
-  line-height: 1.5;
+  line-height: 2.0;
 }
 
 small,
 .small {
   font-size: 0.707rem;
+}
+
+ul > li {
+  margin-bottom:.75rem;
 }
