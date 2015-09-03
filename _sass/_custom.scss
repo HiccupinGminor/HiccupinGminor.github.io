@@ -1,0 +1,22 @@
+.tag-list > li {
+	list-style:none;
+	border: 1px solid #CCC;
+	display: inline-block;
+	padding: .25rem;
+	font-size: .5rem;
+	float:left;
+	margin-right: .25rem;
+}
+.tag-list {
+	overflow:auto;
+	padding-left:0;
+	margin-bottom:0;
+}
+.list-container {
+	margin-bottom:3rem;
+	border-bottom:1px solid #CCC;
+}
+
+.list-container:first-child {
+	border-top: 1px solid #CCC;
+}

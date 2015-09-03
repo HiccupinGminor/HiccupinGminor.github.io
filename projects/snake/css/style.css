@@ -1,0 +1,61 @@
+@font-face {
+	font-family:"04B_30";
+	src:url(../fonts/04B_30__.TTF);
+}
+@font-face {
+	font-family:"Silkscreen";
+	src:url(../fonts/slkscr.ttf);
+}
+body{
+	font: 16px "Silkscreen", Arial, sans-serif;
+	padding:1em;
+	background-color: #e1faff;
+}
+.console{
+	background-color:#E8E4F5;
+	border-bottom:5px solid #BBB;
+	padding:2em;
+	border-radius: 2em;
+	width:406px;
+	box-shadow: 0 0 5px #999;
+	border-top:1px solid #FFF;
+}
+h1{
+	font-family: "04B_30", "VT323", Arial, sans-serif;
+	font-size:40px;
+	color:#5ed962;
+	margin-top:0;
+}
+.controls{
+	margin-top:.5em;
+}
+canvas{
+	border-top:3px solid #AAA;
+	border-right:3px solid #F2F2F2;
+	border-bottom:3px solid #F2F2F2;
+	border-left:3px solid #AAA;
+}
+#score-box{
+	display:inline-block;
+	background-color:#FFF;
+	border-top:2px solid #BBB;
+	padding:.5em;
+	width:50px;
+	text-align: center;
+}
+button{
+	background-color:#53326b;
+	padding:.5em;
+	border:none;
+	border-radius:5px;
+	color:#FFF;
+	font: 1em "Silkscreen", Arial,sans-serif;
+}
+button:hover{
+	background-color: #6e448d;
+}
+.game-alert{
+	color:#FFF;
+	position:absolute;
+	background-color:#FFF;
+}
