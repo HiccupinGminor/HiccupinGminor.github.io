@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Minesweeper</title>
+	<link rel="stylesheet" href="minesweeper.css">
+	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+	<script src="minesweeper.js" type="text/javascript"></script>	
+</head>
+
+<body>
+	<div class="screen"></div>
+	<div class="splash blown-up">
+		<div class="image"></div>
+		<h2>You Lost</h2>
+		<p>A mine blew you up. <a href="" class="new-game-color">Try Again?</a></p>
+		<div class="time-stamp"></div>
+	</div>
+	<div class="splash victory">
+		<div class="image"></div>
+		<h2>Victory</h2>
+		<p>Congratulations! you've found all the non-mined areas! <a href="" class="new-game-color">Play Another Round</a></p>
+		<div class="time-stamp"></div>
+	</div>
+	<div class="intro">
+		<h1>Minesweeper</h1>
+		<p>Each of the squares on the board below may or may not contain an exploding mine. The object of this game is to find all the non-mined squares on the board. This can be accomplished using logic and a bit of guessing. If a square you click on is mined, you lose the game. If it isn't mined, that square will reveal how many mines exist in adjacent squares. If there are no adjacent mines, the game will reveal the adjacents cells as if they have been clicked.</p>
+		<p>When you think that you've revealed all of the non-mined squares, click "Validate" to see if you are right.</p>
+	</div>
+	<div class="play-area">
+		<div class="controls">
+			<button class="new-game">New Game</button>
+			<button class="validate">Validate</button>
+			<button class="cheat">Cheat</button>
+			<div class="timer-outer"><div class="timer"></div></div>
+		</div>
+	</div>
+</body>
+</html>
