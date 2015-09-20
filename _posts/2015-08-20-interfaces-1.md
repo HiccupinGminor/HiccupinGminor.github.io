@@ -3,9 +3,9 @@ layout: post
 title: The Value of Interfaces Part I
 published: true
 ---
-A fundamental principle of good programming which is known as *Polymorphism*. In a nutshell, polymorphism is when multiple implementations can be used interchangeably provided that each agrees with the same interface or contract.
+A fundamental principle of good programming is known as *Polymorphism*. In a nutshell, polymorphism is when multiple implementations can be used interchangeably provided that each agrees with the same interface or contract.
 
-To clarify, consider that many companies manufacture batteries. Acting on their own and without consulting each other, each battery manufacturer may choose to make batteries to different technical specifications of shape, size, and voltage. 
+Take this example from the real world: consider a situation where many companies manufacture batteries and many companies build devices that use batteries. Acting on their own and without consulting each other, each battery manufacturer may choose to make batteries to different technical specifications of shape, size, and voltage. 
 
 There would be no assurance that the batteries would be uniform in any way at all.
 Bob's Batteries might build a battery with a larger diameter than the batteries built by Barbara's Batteries. Whatever device uses Barabara's Batteries, would not be able to use Bob's. 
