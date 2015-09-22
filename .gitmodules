@@ -1,1 +1,3 @@
-
+[submodule "projects/memrep"]
+	path = projects/memrep
+	url = https://github.com/HiccupinGminor/memrep
