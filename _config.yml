@@ -57,7 +57,7 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
   pygments: true
 permalink:    pretty
-pygments: true
+highlighter: pygments
 paginate:     4
 sass:
   compressed: true
