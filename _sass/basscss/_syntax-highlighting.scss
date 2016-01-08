@@ -3,13 +3,13 @@
 }
 
 .highlight .c1 {
-  color: $hljs-comment;
+  color: #999;
   font-style: italic;
 }
 
 .highlight .k,
 .highlight .kp {
-  color: $hljs-keyword;
+  color: #000;
 }
 
 .highlight .mi {
@@ -18,6 +18,18 @@
 
 .highlight .s1 {
   color: $hljs-string;
+}
+
+.highlight .nx {
+  color: #f45c54;
+}
+
+.highlight .nf {
+  color: #406b9c;
+}
+
+.highlight .nv {
+  color: #6b898b;
 }
 
 .hljs-title,
