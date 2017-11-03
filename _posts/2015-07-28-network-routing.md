@@ -6,7 +6,7 @@ tags: one-pager
 ---
 Routers are fundamental to networked computing and are the backbone of the internet.
 
-Routers help computers talk to each other. They can be speciallized hardware, whose only purpose is routing. Or, it might come in the form of routing software installed on non-specialized hardware like a PC or a server to allow that machine to perform some routing duties. Routers serve an important role in networks where each of the nodes is ignorant to the overall network topography. Instead of each node maintaining a carefully map of how best to get a packet from point A to B, nodes can ignore this task and have routers do all of the work of transport.
+Routers help computers talk to each other. They can be specialized hardware, whose only purpose is routing. Or, it might come in the form of routing software installed on non-specialized hardware like a PC or a server to allow that machine to perform some routing duties. Routers serve an important role in networks where each of the nodes is ignorant to the overall network topography. Instead of each node maintaining a carefully map of how best to get a packet from point A to B, nodes can ignore this task and have routers do all of the work of transport.
 
 * A router provides a single interface through which multiple different types of computers can communicate without needing to know about how to communicate directly with each other. Routers know how to speak in many different communication protocols.
 * Routers can communicate across many different physical interfaces. Wifi routers often transmit packets over the air to a small local network. Other routers communicate via ethernet or fiber optic cable. Regardless of the medium of transport, connected computers interact with the router in the same way. 
@@ -14,7 +14,7 @@ Routers help computers talk to each other. They can be speciallized hardware, wh
 * Routers know a packet’s destination from its routing table.
 * Routers know about its local network by communicating periodically with its neighbors.
 
-###Routing Tables
+### Routing Tables
 
 A routing table will typically contain the following fields which are stored in the router’s memory:
 
