@@ -5,7 +5,7 @@ published: true
 ---
 In the [last article](/2015/08/20/interfaces-1/) I wrote about interfaces and polymorphism, I reviewed their definition, usefulness, and some basic strategies of implementation. In this article, I show some examples of powerful interfaces in action.
 
-##Explicit vs. implicit interfaces
+## Explicit vs. implicit interfaces
 
 Some programming languages give you the ability to write real interfaces with definite consequences of non-compliance. For example, PHP uses an interface construct which will deliver a run time error if you implement an interface without respecting its terms.
 
@@ -28,7 +28,7 @@ Other languages like Javascript are not so strict. In these languages, an interf
 
 If you build an implicit interface in Javascript you won't need the extra keystrokes that Java would require to build an interface, but you might find it more difficult later on when a bug spawned from a faulty implementation causes you to split from the world of technology in frustration and live as a hermit. Rather, the terms of the agreement will be a matter of agreement between all of the implementations and clients of the interface. Clearly, it's a matter of preference.
 
-##Some interface patterns
+## Some interface patterns
 
 Despite the cloud of mysticism, design patterns are simply common solutions to common programming problems. I often think that people are a bit too dogmatic about strict adherence to these patterns. There is no need to feel confined to this restricted set of tools for the sake of best practices, nonetheless you may consider them valuable because:
 
@@ -39,7 +39,7 @@ Despite the cloud of mysticism, design patterns are simply common solutions to c
 
 The two patterns I talk about below are notable because of their dependence on strong interfaces (either implicit or explicit).
 
-###Adapter pattern
+### Adapter pattern
 
 The adapter pattern acts as a bridge between an interface and its implementation code. Let's say you'd like to change billing providers because your current provider started charging more or something. You search for a new billing solution, and come up with a likely candidate. It's rare that a library you want to use in your project obeys your interface perfectly. Indeed, there's no reason to expect it to obey your interface at all. In these cases, you'll need to write code to *adapt* the library's api to the interface you expect. For a concrete example, take a look at the following code:
 
@@ -115,7 +115,7 @@ class LibraryBillerAdapter implements BillingInterface {
 
 Note how the conflict between the interface of the LibraryBiller class and the established BillingInterface can be neatly corrected by injecting the LibraryBiller into a wrapper or adapter class (LibraryBillerAdapter) that is purpose-built to obey the BillingInterface. If the LibraryBiller class changes in the future, the necessary updates will be restricted to the LibraryBillerAdapter class only.
 
-###Strategy pattern
+### Strategy pattern
 
 The strategy pattern allows you to choose algorithms / strategies / implementations at run time. Each strategy obeys the same interface and is thus completely interchangeable.
 
