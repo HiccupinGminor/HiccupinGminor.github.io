@@ -92,5 +92,5 @@ If setting and starting the times is on autopilot, my procrastination gremlins c
 
 On occasion, I will work for 50 minutes and then take a 10 minute break, instead of the standard 25 minute sessions. If this is the case, I will naturally aim to get half as many Pomodoros done. I don't really see any difference, except for the sole point that it can be helpful in overcoming inertia to start a work period with a shorter Pomodoro. For work that has a long ramp-up period like programming, a longer period can be helpful.
 
-## Wrap Up
-Give the Pomodoro Technique a try. It's gonna help you out if you have any issues with concentrating on your work. It'll make you more productive, and it may even help you get more enjoyment out of the work you do.
+## Give it a Try
+It's gonna help you out if you have any issues with concentrating on your work. It'll make you more productive, and it may even help you get more enjoyment out of the work you do.
