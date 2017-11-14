@@ -61,5 +61,4 @@ highlighter: rouge
 paginate:     4
 sass:
   compressed: true
-gems:
-  - jekyll-sitemap
+gems: [jekyll-sitemap, jekyll-paginate]
