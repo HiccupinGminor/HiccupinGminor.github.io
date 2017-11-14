@@ -6,7 +6,7 @@ tags: productivity
 ---
 ![Procrastination gremlins hate the Pomodoro Technique](/images/five-years-of-pomodoros/pomodoro-gremlin.jpg)
 
-I've been using the Pomodoro Technique, off and on, for about 5 years. In using it I have seen some marvelous gains in productivity. I have also come up with some small alterations that I believe improve productivity, help me avoid burn out, and aid in the lifelong quest to defeat the gremlins of procrastination.
+I've been using the Pomodoro Technique, off and on, for about 5 years. In using it I have seen some marvelous gains in productivity. I have also come up with some small alterations that I believe improve work quality, help me avoid burn out, and aid in the lifelong quest to defeat the gremlins of procrastination.
 
 ## The Technique
 
