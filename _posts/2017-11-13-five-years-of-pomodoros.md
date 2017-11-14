@@ -6,7 +6,7 @@ tags: productivity
 ---
 ![Procrastination gremlins hate the Pomodoro Technique](/images/five-years-of-pomodoros/pomodoro-gremlin.jpg)
 
-I've been using the Pomodoro technique, off and on, for about 5 years. In using it I have seen some marvelous gains in productivity. I have also come up with some small alterations that I believe improve productivity, help me avoid burn out, and aid in the lifelong quest to defeat the gremlins of procrastination.
+I've been using the Pomodoro Technique, off and on, for about 5 years. In using it I have seen some marvelous gains in productivity. I have also come up with some small alterations that I believe improve productivity, help me avoid burn out, and aid in the lifelong quest to defeat the gremlins of procrastination.
 
 ## The Technique
 
@@ -22,11 +22,11 @@ There is obvious beauty in the simplicity of the system, but beyond that it is o
 
 ### Productivity
 
-Everyone wants to be more productive, and the Pomodoro technique delivers a massive dosage of it. I notice the difference between my Pomodoro and non-Pomodoro output is huge, perhaps on the order of 1.5 or 2x. Increased productivity on this scale is a life-altering event. With efficiency like this, you can work a shorter day **and** get more done.
+Everyone wants to be more productive, and the Pomodoro Technique delivers a massive dosage of it. I notice the difference between my Pomodoro and non-Pomodoro output is huge, perhaps on the order of 1.5 or 2x. Increased productivity on this scale is a life-altering event. With efficiency like this, you can work a shorter day **and** get more done.
 
 ### Enjoyment of work
 
-Using the Pomodoro technique introduces a type of focus into your day which, over time, becomes intrinsically rewarding. I find that it becomes harder and harder to pull myself away from my work when the break timer rings. Sometimes I am so absorbed that I don't hear it altogether.
+Using the Pomodoro Technique introduces a type of focus into your day which, over time, becomes intrinsically rewarding. I find that it becomes harder and harder to pull myself away from my work when the break timer rings. Sometimes I am so absorbed that I don't hear it altogether.
 
 I believe the cause of this is a mental state called [*Flow*](https://www.goodreads.com/book/show/66354.Flow), which can occur when we work in highly focused environments. It turns out that this Flow state is highly enjoyable, and is characterized by the feeling of time passing quickly and high engagement in what we're working on.
 
@@ -50,7 +50,7 @@ If you feel the need to get some information from someone during a session, make
 ### The technique works best when you are working solo
 
 In terms of mental investment, interruptions are expensive. After an interruption, it may take you several minutes to get back to where you were.  
-When you can genuinely unplug your mind from the steam of office communication and wall yourself off from people who want to tap you on the shoulder, that's when the Pomodoro technique truly shines. If no one can interrupt you, you can get full benefit from highly focused work.
+When you can genuinely unplug your mind from the steam of office communication and wall yourself off from people who want to tap you on the shoulder, that's when the Pomodoro Technique truly shines. If no one can interrupt you, you can get full benefit from highly focused work.
 
 I have tried the technique at home as a freelancer, and in a workplace where I was interrupted constantly and I can say that in both cases I benefit from using Pomodoros. However only when I am free from interruptions do I really experience the full benefits.
 
@@ -66,7 +66,7 @@ Oh how insidious those procrastination gremlins are! Even when you convince your
 
 The breaks scheduled between Pomodoros are designed to help you recharge and prepare for another session of concentrated focus. So it stands to reason that the higher the quality of rest we get during the break, the better we will be able to perform during work periods.
 
-With this in mind use your break to do something that doesn't involve computers, and ideally doesn't involve much thinking. Take some time to breath, walk around, answer the call of nature, meditate, have a snack, or tidy your desk.
+With this in mind use your break to do something that doesn't involve computers, and ideally doesn't involve much thinking. Take some time to breathe, walk around, answer the call of nature, meditate, have a snack, or tidy your desk.
 
 ### Beware the long break
 
