@@ -12,9 +12,11 @@ I've been using the Pomodoro technique, off and on, for about 5 years. In using 
 
 Here's the [wikipedia article](https://en.wikipedia.org/wiki/Pomodoro_Technique), but this is the gist:
 
-Take a timer, set it to 25 minutes, then start it. Until the timer rings only work on one thing from your todo list. Don't use social media, check the news, or talk to anyone else. If distractions come to mind write them down on a piece of paper so you can address them later if they truly are important. Once the 25 minutes is up, set a timer for 5 minutes and take a break. Each 25 minute section of work is called a *Pomodoro*. Every 4 Pomodoros, take a longer break of 10-20 minutes.
+Take a timer, set it to 25 minutes, then start it. Until the timer rings only work on one thing from your todo list. Don't use social media, check the news, or talk to anyone else. If distractions come to mind write them down on a piece of paper so you can address them later if they are truly important. Once the 25 minutes is up, set a timer for 5 minutes and take a break. Each 25 minute section of work is called a *Pomodoro*. Every 4 Pomodoros, take a longer break of 10-20 minutes.
 
-That's all there is to it.  
+That's all there is to it.
+
+There is obvious beauty in the simplicity of the system, but beyond that it is one of the most productive work techniques I've ever tried.  
 
 ## Things I've Learned
 
