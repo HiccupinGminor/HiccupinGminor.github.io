@@ -20,3 +20,16 @@
 .list-container:first-child {
 	border-top: 1px solid #CCC;
 }
+
+.tag {
+	background-color: #EEE;
+	border-bottom: 3px solid #DDD;
+	padding: .5em;
+	border-radius: 3px;
+}
+
+.available {
+	background-color: #18dd77;
+	border-color: #0ea550;
+	color: #FFF;
+}
