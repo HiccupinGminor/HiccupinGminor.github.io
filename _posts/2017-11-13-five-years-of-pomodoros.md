@@ -70,7 +70,7 @@ With this in mind use your break to do something that doesn't involve computers,
 
 ### Beware the long break
 
-If you are of a highly-distractible temperament such as myself, The long break that occurs every 4 Pomodoros is a period where your full powers of self-control should be mustered to strike down the procrastination gremlins who will exhaust their cunning to come up with any justification possible to extend the break "just a little longer". It it's going to happen at any time during your workday it's going to happen during the long break, so be on your guard.
+If you are of a highly-distractible temperament such as myself, The long break that occurs every 4 Pomodoros is a period where your full powers of self-control should be mustered to strike down the procrastination gremlins who will exhaust their cunning to come up with any justification possible to extend the break "just a little longer". If it's going to happen at any time during your workday it's going to happen during the long break, so be on your guard.
 
 ## Deviations
 
