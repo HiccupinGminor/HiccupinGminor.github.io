@@ -1,11 +1,16 @@
+@import 'variables';
+
 .tag-list > li {
 	list-style:none;
-	border: 1px solid #CCC;
+	background-color: #BBB;
+  color: #FFF;
 	display: inline-block;
-	padding: .25rem;
-	font-size: .5rem;
+	padding: .5rem;
+	font-size: .75rem;
 	float:left;
 	margin-right: .25rem;
+  border-radius: 5px;
+  font-family: $monospace-font-family;
 }
 .tag-list {
 	overflow:auto;
