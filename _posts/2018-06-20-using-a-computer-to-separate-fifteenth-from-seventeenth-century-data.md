@@ -140,7 +140,7 @@ Starting with a blank slate of a certain arbitrary number of blank neurons and l
 
 ## The Results
 
-Our program, which I actually built and ran, and which follows the outline above, is very good at its job. In general, it makes far fewer mistakes than you or I might (unless you are an art historian) at classifying a painting as either 15th or 17th century.
+Can we teach a computer to distinguish 15th from 17th century paintings? Yes. In general, a program that follows the outline above, makes far fewer mistakes than you or I might (unless you are an art historian) at classifying a painting as either 15th or 17th century.
 When examining the results produced by the program we've described above, it's amazing how startlingly human-like its behavior is. The paintings that we would guess correctly, incorrectly, or be stumped by, the computer guessed similarly. For example, here are its least certain predictions:
 
 ![](/images/seventeenth-vs-fifteenth/least-certain.png)
