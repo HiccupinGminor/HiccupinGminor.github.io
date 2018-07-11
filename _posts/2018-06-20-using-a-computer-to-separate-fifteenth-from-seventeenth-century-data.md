@@ -9,9 +9,11 @@ tags: Neural Networks
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
-Can you tell which century a painting was made by looking at it? In this post, I explain my attempt to get a computer to become proficient at just this task. I was particularly interested in the area of art because it has long been considered to be a final frontier for computers. We humans have been ceding so much ground to the machines, but at least art seems like the last bastion of human superiority. Sure, a computer can be made to understand chess, but only because the game's rigid logic translates well to computer code. We are far less convinced that computers can understand the abstract boundaries and softened edges of fine art. Judging in which century a painting was made, a task that seems fit for an art historian, seems out of the question for a computer. And yet, with modern methods it has become easily achievable.
+Can you tell in which century a painting was produced by looking at it? In this post, I explain my attempt to get a computer to become proficient at just this task.
 
-This is a very high-level primer that is designed to get you thinking about machine learning conceptually. It's specifically for those who have no technical background, as there is no math or code involved in my explanations. You should come away with a vague notion of how machines learn, and in particular, how neural networks work.
+I was particularly interested in the area of art because it has long been considered to be a final frontier for computers. We humans have recently gotten used to ceding ground to the machines, but at least art seems like the last bastion of human superiority. Sure, a computer can be made to understand chess, but only because the game's rigid logic translates well to computer code. We are far less convinced that computers can understand the abstract boundaries and softened edges of fine art. Judging in which century a painting was made, a task that seems fit for an art historian, seems out of the question for a computer. And yet, with modern methods it has become easily achievable.
+
+This is a very high-level primer that is designed to get you thinking about machine learning conceptually. It's specifically for those who have no technical background, as there is no math or code involved in my explanations. You should come away with a lightly sketched notion of how machines learn, and in particular, how neural networks work.
 
 Let's begin by surveying the task before us. I've downloaded about 300 images of European paintings from the 15th and 17th century and labeled them. Here are some samples below:
 
@@ -105,7 +107,7 @@ The problem of taking pixels and turning them into predictions can be solved usi
 
 The brain is made up of cells called neurons. For our purposes, neurons work like little electrical gates. They receive electrical pulses from other neurons or from sense organs, process these input pulses in some way, and based on the results of the processing either fire or don't fire an electrical pulse to the next neuron which may begin the process all over again. We refer to the particular internal processing they do of the inputs that they receive as the neuron's "function".
 
-Despite their simplicity, multiple neurons arranged together allow for the potential of complex cognitive functions. For example, take this simple arrangement:
+Despite their simplicity, multiple neurons arranged together allow for the potential of complex cognitive functions. For example, take this simple arrangement of five neurons:
 
 ![](/images/seventeenth-vs-fifteenth/circle-network.png)
 
@@ -145,6 +147,6 @@ When examining the results produced by the program we've described above, it's a
 
 The first painting has a bit too much gold compared to the typical 17th century image. The second painting has some aspects of religious imagery (angels flying around), yet it's a 17th century image in realism, clothing, etc. The third looks like it could be a pious 15th century lady at first blush, but then again it's got a peasanty and darkly-colored vibe to it. Judging by these examples where the algorithm couldn't make up its mind, we can see just how human its indecision is. The things it was confused by are also confusing to us. Apparently the algorithm is using a lot of the same rules that we came up with to distinguish these images (and many more that we didn't think of, or couldn't perceive). Amazing.
 
-I ran thins algorithm on just 300 images which took about 1 human hour to gather and label. Its accuracy was 93%; it was correct in its guess better than 9 times out of 10. This result came from something that has no idea what either the 17th or 15th century were, what a peasant, angel, merchant, or monk looks like, and indeed no idea what art is either. Our computer art historian certainly has unusual methods for doing its job, but it also gets great results. I sense the frontier of human superiority has just eroded a bit more.
+I ran this algorithm on just 300 images which took about 1 human hour to gather and label. Its accuracy was 93%; it was correct in its guess better than 9 times out of 10. This result was produced by a lump of metal and silicon that has no idea what either the 17th or 15th century were, what a peasant, angel, merchant, or monk looks like, and indeed no idea what art is either. Our computer art historian certainly has unusual methods for doing its job, but it also gets great results. I sense the frontier of human superiority has just eroded a bit more.
 
 <script type="text/javascript" src="/js/seventeenth-vs-fifteenth.js"></script>
