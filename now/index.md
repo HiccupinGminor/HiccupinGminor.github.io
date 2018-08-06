@@ -3,10 +3,11 @@ layout: page
 title: What I'm Doing
 published: true
 ---
-*Updated: 7/25/2018*
+*Updated: 8/6/2018*
 
-For this week, I want to revive my efforts towards building an autonomous [salad-growing robot](/2018/07/25/saladbot/). In addition, I'm continuing my study of neural networks and machine learning.
+I made great progress on my Salad Rover upgrade to Saladbot last week. I plan on continuing that this week, as well as working on a big client project. Haven't had the chance to read much.
 
 ### Reading
 * *Mastery* by Robert Greene
 * *Search Inside Yourself* by Chade-Meng Tan
+* *Why We Sleep* by Matthew Walker
