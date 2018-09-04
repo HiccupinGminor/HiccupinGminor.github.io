@@ -3,9 +3,9 @@ layout: page
 title: What I'm Doing
 published: true
 ---
-*Updated: 8/21/2018*
+*Updated: 9/03/2018*
 
-These past couple of weeks I've been swamped with client work. I did however manage to get Salad Rover "roaming" on its own four wheels and with the direction of a control panel web ui. I'm waiting for some servo motors to arrive for the construction of the next critical component.
+I continue to have work with a longer term, full-time client. In my spare time I've been working a bit more on Salad rover. I received my high-torque servos, and am proceeding with my work on the rover bot by designing and printing out parts for a prototype robot arm.
 
 ### Reading
 * *Mastery* by Robert Greene
