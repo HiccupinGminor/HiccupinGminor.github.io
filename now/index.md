@@ -3,11 +3,13 @@ layout: page
 title: What I'm Doing
 published: true
 ---
-*Updated: 10/10/2018*
+*Updated: 05/15/2019*
 
 ### Working on
 * Hone
-* Saladrover
+* Jawb
+* Simple1003
 
 ### Reading
-* *The Last Days of the Incas* Kim MacQuarrie
+* *The Art of Game Design* Jesse Schell
+* *Digital Minimalism* Cal Newport
