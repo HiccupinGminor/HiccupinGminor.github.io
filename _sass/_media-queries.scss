@@ -25,6 +25,10 @@
     float: left;
   }
 
+  .site-header .site-title a {
+    font-size: $h3;
+  }
+
   .site-header .site-nav {
     float: right;
     margin-top: .25rem;

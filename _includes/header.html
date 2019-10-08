@@ -1,7 +1,10 @@
 <header class="site-header px2 px-responsive">
   <div class="mt2 wrap">
     <div class="measure">
-      <a href="{{ site.url }}" class="site-title"> {{ site.title }}</a>
+      <div class="site-title">
+        <a href="{{ site.url }}" class="site-main-title"> {{ site.title }}</a>
+        <p class="site-tagline">{{ site.tagline }}</p>
+      </div>
       <nav class="site-nav">
         {% include navigation.html %}
       </nav>
