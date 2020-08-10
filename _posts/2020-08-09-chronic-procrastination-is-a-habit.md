@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beating the Procrastination Habit
-published: false
+published: true
 ---
 
 "Prodigality of Time, produces Poverty of Mind as well as of Estate." - Benjamin Franklin
