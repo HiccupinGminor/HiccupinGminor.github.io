@@ -3,10 +3,12 @@ layout: page
 title: What I'm Doing
 published: true
 ---
-*Updated: 10/08/2019*
+*Updated: 8/31/2020*
 
 ### Working on
-* Hone
+* Shoku, Freelancing, Learning about AI / ML
 
 ### Reading
-* *The Recursive Universe* - William Poundstone
+* Deep Work (re-reading) by Cal Newport
+* Society of Mind by Marvin Minsky
+* Artificial Intelligence: A Modern Approach by Peter Norvig and Stuart Russell 
